@@ -3,7 +3,7 @@
 ### Author: Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab03/pull/2)
 * [travis]([![Build Status](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab03.svg?branch=master)](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab03))
 
 ### Modules

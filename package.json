@@ -1,0 +1,30 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "Understanding callback, promises and async await",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "author": "Jeremy Lee",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.6.1",
+    "faker": "^4.1.0",
+    "jest": "^23.6.0",
+    "util": "^0.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-401-advanced-javascript/Lab03.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremy-401-advanced-javascript/Lab03/issues"
+  },
+  "homepage": "https://github.com/jeremy-401-advanced-javascript/Lab03#readme"
+}
